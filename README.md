@@ -1,6 +1,6 @@
 Description
 ----
-  "PageDeGardeISI" est un paquage qui permet de générer la page de garde de l'ISI,
+  "PageDeGardeISI" est un paquage qui permet de générer la page de garde de l'ISI, 
   l'Institut Supérieur d'Informatique de l'Université Tunis El Manar, Ariana, Tunisie.
 
   La mise en page a été adapté en LaTeX par :
